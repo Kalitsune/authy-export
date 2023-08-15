@@ -1,3 +1,6 @@
+# Notes
+the pull request related to this repository has been merged so it is now archived. If you want to make any changes to the code, please do so on the [original repository](https://github.com/Korben00/authy-export)
+
 # Authy Export - TOTP Extractor
 
 <p align="center">
